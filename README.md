@@ -1,3 +1,8 @@
+# React_Final_Project(Moldule 1)
+
+This repository is part of my learning journey through the **"Developing Front-End Apps with React"** course by IBM on Coursera.  
+It focuses on foundational skills for preparing and rendering front-end applications using React.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
